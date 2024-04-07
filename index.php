@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> roommate</title> 
+    <title> RoomieConnect</title> 
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
    </head>
@@ -12,7 +12,7 @@
   <nav>
     <div class="header">
       <div class="logo">
-        <a href="#">RoomMate</a>
+        <a href="#">RoomieConnect</a>
       </div>
       <ul>
         <li><a href="#">Home</a></li>
@@ -112,19 +112,19 @@
         <div class="col">
             <a href="#">Help Center</a>
             <a href="#">+94 0842 0462</a>
-            <a href="#">bookstore@gmail.com</a>
+            <a href="#">RoomieConnect@gmail.com</a>
             
 
         </div>
         <div class="col">
             <a href="#">Accounts</a>
             <a href="#">Sign In</a>
-            <a href="#">Payments</a>
-            <a href="#">Only on Bookstore</a>
+           
+            <a href="#">Only on RoomieConnect</a>
 
         </div>
         
-    </div><p class="copyright">© Roommate India</p>
+    </div><p class="copyright">© RoomieConnect India</p>
 </div>
 </body>
 </html>
